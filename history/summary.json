@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2133,
-    "timeDay": 2133,
-    "timeWeek": 2133,
-    "timeMonth": 2133,
-    "timeYear": 2133,
+    "time": 1173,
+    "timeDay": 1173,
+    "timeWeek": 1173,
+    "timeMonth": 1173,
+    "timeYear": 1173,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1845,
-    "timeDay": 1845,
-    "timeWeek": 1845,
-    "timeMonth": 1845,
-    "timeYear": 1845,
+    "time": 1474,
+    "timeDay": 1474,
+    "timeWeek": 1474,
+    "timeMonth": 1474,
+    "timeYear": 1474,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 239,
-    "timeWeek": 239,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "time": 237,
+    "timeDay": 237,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/galert.isekai.eu.org",
     "slug": "git-alert-bot",
     "status": "down",
-    "uptime": "16.08%",
-    "uptimeDay": "16.08%",
-    "uptimeWeek": "16.08%",
-    "uptimeMonth": "16.08%",
-    "uptimeYear": "16.08%",
-    "time": 562,
-    "timeDay": 562,
-    "timeWeek": 562,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
+    "time": 2623,
+    "timeDay": 2623,
+    "timeWeek": 2623,
+    "timeMonth": 2623,
+    "timeYear": 2623,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 6
     }
   }
 ]

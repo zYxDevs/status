@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 1173,
-    "timeWeek": 1173,
-    "timeMonth": 1173,
-    "timeYear": 1173,
+    "time": 872,
+    "timeDay": 872,
+    "timeWeek": 872,
+    "timeMonth": 872,
+    "timeYear": 872,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1474,
-    "timeDay": 1474,
-    "timeWeek": 1474,
-    "timeMonth": 1474,
-    "timeYear": 1474,
+    "time": 1120,
+    "timeDay": 1120,
+    "timeWeek": 1120,
+    "timeMonth": 1120,
+    "timeYear": 1120,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 237,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,38 @@
     "icon": "https://favicons.githubusercontent.com/galert.isekai.eu.org",
     "slug": "git-alert-bot",
     "status": "down",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
-    "time": 2623,
-    "timeDay": 2623,
-    "timeWeek": 2623,
-    "timeMonth": 2623,
-    "timeYear": 2623,
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
+    "time": 1911,
+    "timeDay": 1911,
+    "timeWeek": 1911,
+    "timeMonth": 1911,
+    "timeYear": 1911,
     "dailyMinutesDown": {
-      "2022-06-03": 6
+      "2022-06-03": 17
+    }
+  },
+  {
+    "name": "Ninym Robot",
+    "url": "http://18.132.101.53",
+    "icon": "https://favicons.githubusercontent.com/18.132.101.53",
+    "slug": "ninym-robot",
+    "status": "down",
+    "uptime": "8.06%",
+    "uptimeDay": "8.06%",
+    "uptimeWeek": "8.06%",
+    "uptimeMonth": "8.06%",
+    "uptimeYear": "8.06%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-03": 0
     }
   }
 ]

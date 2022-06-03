@@ -14,7 +14,7 @@ sites:
   - name: Ninym Server
     check: "tcp-ping"
     url: 18.132.101.53
-    port: 88
+    port: 80
   - name: Mio Server
     check: "tcp-ping"
     url: 13.41.111.246
@@ -22,7 +22,7 @@ sites:
   - name: AWS Server 1
     check: "tcp-ping"
     url: 18.198.138.41
-    port: 53
+    port: 80
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

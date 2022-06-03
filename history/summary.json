@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/yodrive.eu.org",
     "slug": "yo-drive",
     "status": "down",
-    "uptime": "2.33%",
-    "uptimeDay": "2.33%",
-    "uptimeWeek": "2.33%",
-    "uptimeMonth": "2.33%",
-    "uptimeYear": "2.33%",
+    "uptime": "1.59%",
+    "uptimeDay": "1.59%",
+    "uptimeWeek": "1.59%",
+    "uptimeMonth": "1.59%",
+    "uptimeYear": "1.59%",
     "time": 712,
     "timeDay": 712,
     "timeWeek": 712,
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2022-06-03": 1
+      "2022-06-03": 2
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/galert.isekai.eu.org",
     "slug": "git-alert",
     "status": "down",
-    "uptime": "1.35%",
-    "uptimeDay": "1.35%",
-    "uptimeWeek": "1.35%",
-    "uptimeMonth": "1.35%",
-    "uptimeYear": "1.35%",
+    "uptime": "1.08%",
+    "uptimeDay": "1.08%",
+    "uptimeWeek": "1.08%",
+    "uptimeMonth": "1.08%",
+    "uptimeYear": "1.08%",
     "time": 348,
     "timeDay": 348,
     "timeWeek": 348,
     "timeMonth": 348,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-06-03": 1
+      "2022-06-03": 2
     }
   },
   {
@@ -117,11 +117,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ninym-server",
     "status": "down",
-    "uptime": "34.74%",
-    "uptimeDay": "34.74%",
-    "uptimeWeek": "34.74%",
-    "uptimeMonth": "34.74%",
-    "uptimeYear": "34.74%",
+    "uptime": "35.02%",
+    "uptimeDay": "35.02%",
+    "uptimeWeek": "35.02%",
+    "uptimeMonth": "35.02%",
+    "uptimeYear": "35.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,

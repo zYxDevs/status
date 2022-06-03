@@ -9,19 +9,19 @@ sites:
     url: https://www.otakufanshare.eu.org
   - name: zYxDevs Haste
     url: http://paste.isekai.eu.org
-  - name: Git Alert Bot
+  - name: YoDrive
+    url: https://yodrive.eu.org
+  - name: zYxDrive
+    url: https://zyxdrive.eu.org
+  - name: Git Alert
     url: http://galert.isekai.eu.org
   - name: Ninym Server
     check: "tcp-ping"
-    url: 18.132.101.53
-    port: 80
+    url: 18.198.138.41
+    port: 88
   - name: Mio Server
     check: "tcp-ping"
     url: 13.41.111.246
-    port: 80
-  - name: AWS Server 1
-    check: "tcp-ping"
-    url: 18.198.138.41
     port: 80
 
 status-website:

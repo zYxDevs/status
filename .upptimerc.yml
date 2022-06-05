@@ -13,6 +13,8 @@ sites:
     url: https://yodrive.eu.org
   - name: zYxDrive
     url: https://zyxdrive.eu.org
+  - name: zYxDrive [SA]
+    url: https://index.isekai.eu.org
   - name: Git Alert
     url: http://galert.isekai.eu.org
   - name: Ninym Server

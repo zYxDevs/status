@@ -40,19 +40,19 @@
     "url": "http://paste.isekai.eu.org",
     "icon": "https://favicons.githubusercontent.com/paste.isekai.eu.org",
     "slug": "z-yx-devs-haste",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 248,
-    "timeDay": 258,
-    "timeWeek": 248,
-    "timeMonth": 248,
-    "timeYear": 248,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 251,
+    "timeDay": 266,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2022-06-05": 3
+      "2022-06-05": 11
     }
   },
   {
@@ -157,18 +157,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mio-server",
     "status": "down",
-    "uptime": "76.56%",
-    "uptimeDay": "53.93%",
-    "uptimeWeek": "76.56%",
-    "uptimeMonth": "76.56%",
-    "uptimeYear": "76.56%",
+    "uptime": "76.27%",
+    "uptimeDay": "53.18%",
+    "uptimeWeek": "76.27%",
+    "uptimeMonth": "76.27%",
+    "uptimeYear": "76.27%",
     "time": 105,
     "timeDay": 82,
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2022-06-05": 663
+      "2022-06-05": 674
     }
   }
 ]

@@ -22,7 +22,7 @@ sites:
   - name: Ninym Server
     check: "tcp-ping"
     url: 18.198.138.41
-    port: 88
+    port: 80
   - name: Mio Server
     check: "tcp-ping"
     url: 13.41.111.246

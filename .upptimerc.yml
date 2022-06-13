@@ -8,7 +8,7 @@ sites:
   - name: Otaku Fanshare
     url: https://www.otakufanshare.eu.org
   - name: IsekaiBin
-    url: http://paste.isekai.eu.org
+    url: https://paste.isekai.eu.org
   - name: Isekai Safelink
     url: https://safe.isekai.eu.org
   - name: YoDrive

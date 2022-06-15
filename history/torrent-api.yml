@@ -1,7 +1,7 @@
 url: https://torapi.isekai.eu.org
-status: down
-code: 503
-responseTime: 329
-lastUpdated: 2022-06-15T06:56:58.701Z
+status: up
+code: 200
+responseTime: 2149
+lastUpdated: 2022-06-15T07:17:13.453Z
 startTime: Wed Jun 15 2022 05:52:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

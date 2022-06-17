@@ -15,6 +15,8 @@ sites:
     url: https://torapi.isekai.eu.org
   - name: Screenshot Api
     url: https://webshot.otakufanshare.eu.org
+  - name: Kusonime API
+    url: https://kuso.otakufanshare.eu.org
   - name: Git Alert
     url: http://galert.isekai.eu.org
   - name: YoDrive
@@ -39,9 +41,9 @@ status-website:
   # baseUrl: /your-repo-name
   theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  name: zYxDevs Site Status
   introTitle: "**Status Dashboard** is the place where you can see all my site uptime status."
-  introMessage: This status is **real-time**, This service is open source on [GitHub repository](https://github.com/upptime/upptime).
+  introMessage: This status is **real-time**, [Donation are welcome](https://www.isekai.eu.org/page/donation) to kept all site online.
   navbar:
     - title: Home
       href: /

@@ -19,6 +19,8 @@ sites:
     url: https://kuso.otakufanshare.eu.org/api
   - name: Wibu API
     url: https://wibu-api.vercel.app/docs
+  - name: Janda RESTful API
+    url: http://janda.zyxdevs.eu.org
   - name: Git Alert
     url: http://galert.isekai.eu.org
   - name: YoDrive

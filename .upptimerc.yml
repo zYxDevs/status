@@ -7,20 +7,22 @@ sites:
     url: https://www.isekai.eu.org
   - name: Otaku Fanshare
     url: https://www.otakufanshare.eu.org
-  - name: IsekaiBin
+  - name: Isekai Paste
     url: https://paste.isekai.eu.org
   - name: Isekai Safelink
     url: https://safe.isekai.eu.org
-  - name: TorrentApi
+  - name: Torrent API
     url: https://torapi.isekai.eu.org
-  - name: Screenshot Api
+  - name: Screenshot API
     url: https://webshot.otakufanshare.eu.org
   - name: Kusonime API
     url: https://kuso.otakufanshare.eu.org/api
   - name: Wibu API
-    url: https://wibu-api.vercel.app/docs
+    url: https://wibu-api.eu.org/api
+  - name: Wibu API Old
+    url: https://api.wibu-api.eu.org/api
   - name: Janda RESTful API
-    url: http://janda.zyxdevs.eu.org
+    url: https://janda.zyxdevs.eu.org
   - name: Git Alert
     url: http://galert.isekai.eu.org
   - name: YoDrive
@@ -49,6 +51,8 @@ status-website:
       href: https://github.com/$OWNER
     - title: Telegram
       href: https://t.me/Yoga_CIC
+    - title: Bot Status
+      href: https://t.me/SpreadNetworks/3
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -1,7 +1,7 @@
 url: https://janda.zyxdevs.eu.org
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2023-06-25T23:19:45.486Z
+status: down
+code: 429
+responseTime: 4226
+lastUpdated: 2023-06-26T11:22:47.419Z
 startTime: Sat Mar 04 2023 07:00:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

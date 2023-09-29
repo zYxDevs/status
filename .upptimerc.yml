@@ -9,8 +9,8 @@ sites:
     url: https://www.otakufanshare.eu.org
   - name: zYxCloud
     url: https://zyxdevs.eu.org
-  - name: Screenshot API
-    url: https://webshot.otakufanshare.eu.org
+    headers:
+      - "X-Admin: $ZYXCLOUD"
   - name: Wibu API
     url: https://wibu-api.eu.org/api
   - name: Wibu API Old
@@ -37,8 +37,6 @@ status-website:
   introTitle: "**Status Dashboard** is the place where you can see all my site uptime status."
   introMessage: This status is **real-time**, [Donation are welcome](https://www.isekai.eu.org/page/donation) to keep all site online.
   navbar:
-    - title: Home
-      href: /
     - title: Blog
       href: https://www.isekai.eu.org
     - title: GitHub

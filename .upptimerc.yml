@@ -10,7 +10,7 @@ sites:
   - name: zYxCloud
     url: https://zyxdevs.eu.org
     headers:
-      - "X-Admin: $ZYXCLOUD"
+      - "X-Admin: ${{ secrets.ZYXCLOUD }}"
   - name: Wibu API
     url: https://wibu-api.eu.org/api
   - name: Wibu API Old

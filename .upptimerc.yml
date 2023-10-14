@@ -17,8 +17,12 @@ sites:
     url: https://api.wibu-api.eu.org/api
   - name: Janda RESTful API
     url: https://janda.zyxdevs.eu.org
+    headers:
+      - "X-Admin: ${{ secrets.ZYXCLOUD }}"
   - name: Lust RESTful API
     url: https://lust.zyxdevs.eu.org
+    headers:
+      - "X-Admin: ${{ secrets.ZYXCLOUD }}"
   - name: YoDrive
     url: https://yodrive.eu.org
   - name: zYxDrive

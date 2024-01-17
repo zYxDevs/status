@@ -4,19 +4,19 @@
     "url": "https://www.isekai.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.isekai.eu.org.ico",
     "slug": "personal-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 1278,
-    "timeWeek": 514,
-    "timeMonth": 297,
+    "timeDay": 921,
+    "timeWeek": 480,
+    "timeMonth": 294,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 17
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 176,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-01-17": 1318,
+      "2024-01-17": 1335,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,

@@ -1,7 +1,7 @@
 url: https://wibu-api.eu.org/api
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2024-06-01T23:18:05.948Z
+status: down
+code: 530
+responseTime: 180
+lastUpdated: 2024-06-02T04:31:56.403Z
 startTime: 2022-06-19T05:09:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>

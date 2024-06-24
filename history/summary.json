@@ -54,7 +54,7 @@
     "timeMonth": 203,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-06-24": 53,
+      "2024-06-24": 886,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -369,11 +369,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wibu-api.eu.org.ico",
     "slug": "wibu-api-old",
     "status": "up",
-    "uptime": "89.83%",
+    "uptime": "89.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.45%",
+    "uptimeYear": "97.61%",
     "time": 353,
     "timeDay": 141,
     "timeWeek": 298,
@@ -464,35 +464,39 @@
     "url": "https://zyxdrive.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/zyxdrive.eu.org.ico",
     "slug": "z-yx-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 346,
-    "timeWeek": 1182,
-    "timeMonth": 591,
+    "time": 422,
+    "timeDay": 258,
+    "timeWeek": 1056,
+    "timeMonth": 577,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   },
   {
     "name": "zYxDrive [SA]",
     "url": "https://index.isekai.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/index.isekai.eu.org.ico",
     "slug": "z-yx-drive-sa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 729,
-    "timeWeek": 416,
-    "timeMonth": 413,
-    "timeYear": 405,
-    "dailyMinutesDown": {}
+    "time": 404,
+    "timeDay": 443,
+    "timeWeek": 383,
+    "timeMonth": 405,
+    "timeYear": 404,
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   }
 ]

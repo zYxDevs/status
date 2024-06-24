@@ -9,26 +9,10 @@ sites:
     url: https://www.otakufanshare.eu.org
   - name: zYxCloud
     url: https://zyxdevs.eu.org
-    headers:
-      - "X-Admin: ${{ secrets.ZYXCLOUD }}"
   - name: Wibu API
     url: https://wibu-api.eu.org/api
   - name: Wibu API Old
     url: https://api.wibu-api.eu.org/api
-  - name: Janda RESTful API
-    url: https://janda.zyxdevs.eu.org
-    headers:
-      - "X-Admin: ${{ secrets.ZYXCLOUD }}"
-  - name: Lust RESTful API
-    url: https://lust.zyxdevs.eu.org
-    headers:
-      - "X-Admin: ${{ secrets.ZYXCLOUD }}"
-  - name: YoDrive
-    url: https://yodrive.eu.org
-  - name: zYxDrive
-    url: https://zyxdrive.eu.org
-  - name: zYxDrive [SA]
-    url: https://index.isekai.eu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

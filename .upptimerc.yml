@@ -3,7 +3,7 @@ owner: zYxDevs # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: Personal Blog
+  - name: Blog
     url: https://www.isekai.eu.org
   - name: Otaku Fanshare
     url: https://www.otakufanshare.eu.org
@@ -22,18 +22,18 @@ status-website:
   theme: dark
   logoUrl: https://wibu-api.eu.org/static/img/favicon1.png
   # https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: zYxDevs Site Status
+  name: zYxStatus
   introTitle: "**Status Dashboard** is the place where you can see all my site uptime status."
   introMessage: This status is **real-time**, [Donation are welcome](https://www.isekai.eu.org/page/donation) to keep all site online.
   navbar:
-    - title: Blog
-      href: https://www.isekai.eu.org
+    #- title: Blog
+    #  href: https://www.isekai.eu.org
     - title: GitHub
       href: https://github.com/$OWNER
-    - title: Telegram
-      href: https://t.me/Yoga_CIC
-    - title: Bot Status
-      href: https://t.me/SpreadNetworks/3
+    #- title: Telegram
+    #  href: https://t.me/Yoga_CIC
+    #- title: Bot Status
+    #  href: https://t.me/SpreadNetworks/3
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

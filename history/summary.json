@@ -4,7 +4,7 @@
     "url": "https://www.isekai.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.isekai.eu.org.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 301,
     "timeMonth": 448,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 0
+    }
   },
   {
     "name": "Otaku Fanshare",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-07-17": 78,
+      "2025-07-17": 1066,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -425,18 +427,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wibu-api.eu.org.ico",
     "slug": "wibu-api",
     "status": "down",
-    "uptime": "72.56%",
+    "uptime": "72.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.55%",
+    "uptimeYear": "17.36%",
     "time": 756,
     "timeDay": 431,
     "timeWeek": 287,
     "timeMonth": 427,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-07-17": 78,
+      "2025-07-17": 1066,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -750,7 +752,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wibu-api.eu.org.ico",
     "slug": "wibu-api-v1",
     "status": "down",
-    "uptime": "26.53%",
+    "uptime": "26.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -761,7 +763,7 @@
     "timeMonth": 463,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2025-07-17": 78,
+      "2025-07-17": 1066,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,

@@ -4,19 +4,19 @@
     "url": "https://www.isekai.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.isekai.eu.org.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 314,
-    "timeWeek": 301,
-    "timeMonth": 448,
-    "timeYear": 563,
+    "time": 558,
+    "timeDay": 341,
+    "timeWeek": 309,
+    "timeMonth": 445,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2025-07-17": 0
+      "2025-07-17": 10
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-07-17": 1066,
+      "2025-07-17": 1075,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 427,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-07-17": 1066,
+      "2025-07-17": 1075,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -763,7 +763,7 @@
     "timeMonth": 463,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2025-07-17": 1066,
+      "2025-07-17": 1075,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,

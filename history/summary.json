@@ -6,17 +6,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 566,
-    "timeDay": 2683,
+    "timeDay": 5068,
     "timeWeek": 960,
     "timeMonth": 611,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2025-07-24": 1,
       "2025-07-18": 20
     }
   },
@@ -32,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
-    "timeDay": 317,
+    "timeDay": 246,
     "timeWeek": 400,
     "timeMonth": 576,
     "timeYear": 668,
@@ -55,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2025-07-24": 1405,
+      "2025-07-25": 77,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -418,8 +418,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   },
   {
@@ -432,14 +431,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.38%",
+    "uptimeYear": "15.36%",
     "time": 670,
-    "timeDay": 413,
+    "timeDay": 287,
     "timeWeek": 292,
     "timeMonth": 441,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-07-24": 1405,
+      "2025-07-25": 77,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -760,18 +760,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wibu-api.eu.org.ico",
     "slug": "wibu-api-v1",
     "status": "down",
-    "uptime": "26.00%",
+    "uptime": "25.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "26.20%",
     "time": 550,
-    "timeDay": 203,
+    "timeDay": 256,
     "timeWeek": 290,
     "timeMonth": 449,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-07-24": 1405,
+      "2025-07-25": 77,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -1040,8 +1041,7 @@
       "2024-08-13": 930,
       "2024-07-28": 1033,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   }
 ]

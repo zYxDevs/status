@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 547,
-    "timeDay": 392,
-    "timeWeek": 272,
-    "timeMonth": 573,
+    "timeDay": 481,
+    "timeWeek": 303,
+    "timeMonth": 582,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2025-10-20": 25,
@@ -37,17 +37,17 @@
     "slug": "otaku-fanshare",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.24%",
     "time": 606,
     "timeDay": 519,
-    "timeWeek": 452,
-    "timeMonth": 405,
+    "timeWeek": 451,
+    "timeMonth": 408,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2025-12-08": 40,
+      "2025-12-08": 30,
       "2025-10-13": 23,
       "2025-09-27": 26,
       "2025-09-17": 535,
@@ -57,7 +57,7 @@
       "2025-09-13": 611,
       "2025-09-12": 376,
       "2025-09-11": 36,
-      "2025-09-10": 722
+      "2025-09-10": 773
     }
   },
   {
@@ -66,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zyxcloud.my.id.ico",
     "slug": "z-yx-cloud",
     "status": "down",
-    "uptime": "1.88%",
+    "uptime": "1.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 627,
+    "time": 633,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-08": 1303,
+      "2025-12-09": 73,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -440,8 +441,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   },
   {
@@ -455,13 +455,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 586,
-    "timeDay": 395,
-    "timeWeek": 346,
-    "timeMonth": 287,
+    "time": 585,
+    "timeDay": 241,
+    "timeWeek": 352,
+    "timeMonth": 289,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2025-12-08": 1303,
+      "2025-12-09": 73,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -824,8 +825,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   },
   {
@@ -834,18 +834,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wibu-api.eu.org.ico",
     "slug": "wibu-api-v1",
     "status": "down",
-    "uptime": "19.31%",
+    "uptime": "19.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 530,
-    "timeDay": 532,
-    "timeWeek": 289,
+    "timeDay": 437,
+    "timeWeek": 319,
     "timeMonth": 628,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-12-08": 1303,
+      "2025-12-09": 73,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -1208,8 +1209,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   }
 ]

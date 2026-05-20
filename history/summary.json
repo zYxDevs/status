@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 528,
-    "timeDay": 274,
-    "timeWeek": 229,
-    "timeMonth": 426,
+    "time": 527,
+    "timeDay": 169,
+    "timeWeek": 210,
+    "timeMonth": 425,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2026-02-22": 32,
@@ -44,9 +44,9 @@
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.21%",
     "time": 583,
-    "timeDay": 240,
-    "timeWeek": 345,
-    "timeMonth": 406,
+    "timeDay": 247,
+    "timeWeek": 310,
+    "timeMonth": 405,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2026-05-13": 178,
@@ -93,7 +93,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 165,
+      "2026-05-20": 165,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -456,8 +457,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -466,18 +466,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wibu-api.eu.org.ico",
     "slug": "wibu-api",
     "status": "down",
-    "uptime": "57.03%",
+    "uptime": "56.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 430,
-    "timeDay": 138,
-    "timeWeek": 132,
-    "timeMonth": 249,
-    "timeYear": 449,
+    "timeDay": 419,
+    "timeWeek": 182,
+    "timeMonth": 258,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2026-05-19": 165,
+      "2026-05-20": 165,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -840,8 +841,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -850,18 +850,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wibu-api.eu.org.ico",
     "slug": "wibu-api-v1",
     "status": "down",
-    "uptime": "14.82%",
+    "uptime": "14.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 451,
-    "timeDay": 25,
-    "timeWeek": 28,
-    "timeMonth": 159,
+    "time": 450,
+    "timeDay": 17,
+    "timeWeek": 21,
+    "timeMonth": 155,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2026-05-19": 165,
+      "2026-05-20": 165,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -1224,8 +1225,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   }
 ]

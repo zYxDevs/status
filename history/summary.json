@@ -35,16 +35,16 @@
     "url": "https://www.otakufanshare.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.otakufanshare.eu.org.ico",
     "slug": "otaku-fanshare",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "46.34%",
-    "uptimeWeek": "30.35%",
-    "uptimeMonth": "81.36%",
+    "uptimeDay": "46.40%",
+    "uptimeWeek": "30.06%",
+    "uptimeMonth": "81.29%",
     "uptimeYear": "97.69%",
     "time": 550,
-    "timeDay": 375,
-    "timeWeek": 350,
-    "timeMonth": 371,
+    "timeDay": 371,
+    "timeWeek": 349,
+    "timeMonth": 370,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2025-09-14": 311,
@@ -85,7 +85,7 @@
       "2026-08-04": 1117,
       "2026-08-05": 1200,
       "2026-08-06": 1247,
-      "2026-08-07": 705
+      "2026-08-07": 734
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 1371,
+      "2026-08-07": 1402,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -489,7 +489,7 @@
     "timeMonth": 208,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2026-08-07": 1371,
+      "2026-08-07": 1402,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -873,7 +873,7 @@
     "timeMonth": 40,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2026-08-07": 1371,
+      "2026-08-07": 1402,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,

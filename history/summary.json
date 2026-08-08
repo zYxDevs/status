@@ -34,16 +34,16 @@
     "url": "https://www.otakufanshare.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.otakufanshare.eu.org.ico",
     "slug": "otaku-fanshare",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "31.99%",
-    "uptimeWeek": "31.29%",
-    "uptimeMonth": "79.48%",
-    "uptimeYear": "97.58%",
+    "uptimeDay": "30.28%",
+    "uptimeWeek": "31.30%",
+    "uptimeMonth": "79.16%",
+    "uptimeYear": "97.56%",
     "time": 546,
-    "timeDay": 355,
-    "timeWeek": 353,
-    "timeMonth": 369,
+    "timeDay": 367,
+    "timeWeek": 354,
+    "timeMonth": 370,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2025-09-14": 51,
@@ -85,7 +85,7 @@
       "2026-08-05": 1200,
       "2026-08-06": 1247,
       "2026-08-07": 734,
-      "2026-08-08": 792
+      "2026-08-08": 932
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 1134,
+      "2026-08-08": 1275,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -478,7 +478,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wibu-api.eu.org.ico",
     "slug": "wibu-api",
     "status": "down",
-    "uptime": "53.95%",
+    "uptime": "53.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -489,7 +489,7 @@
     "timeMonth": 205,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2026-08-08": 1134,
+      "2026-08-08": 1275,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -862,7 +862,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wibu-api.eu.org.ico",
     "slug": "wibu-api-v1",
     "status": "down",
-    "uptime": "13.26%",
+    "uptime": "13.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -873,7 +873,7 @@
     "timeMonth": 39,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2026-08-08": 1134,
+      "2026-08-08": 1275,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,

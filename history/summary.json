@@ -34,16 +34,16 @@
     "url": "https://www.otakufanshare.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.otakufanshare.eu.org.ico",
     "slug": "otaku-fanshare",
-    "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "85.43%",
-    "uptimeWeek": "66.55%",
-    "uptimeMonth": "66.34%",
-    "uptimeYear": "96.80%",
+    "status": "up",
+    "uptime": "99.23%",
+    "uptimeDay": "79.18%",
+    "uptimeWeek": "65.66%",
+    "uptimeMonth": "66.14%",
+    "uptimeYear": "96.78%",
     "time": 539,
-    "timeDay": 313,
-    "timeWeek": 370,
-    "timeMonth": 378,
+    "timeDay": 312,
+    "timeWeek": 369,
+    "timeMonth": 377,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2025-09-17": 45,
@@ -92,7 +92,7 @@
       "2026-08-15": 237,
       "2026-08-16": 306,
       "2026-08-17": 95,
-      "2026-08-18": 155
+      "2026-08-18": 245
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 974,
+      "2026-08-18": 1065,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -485,7 +485,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wibu-api.eu.org.ico",
     "slug": "wibu-api",
     "status": "down",
-    "uptime": "53.60%",
+    "uptime": "53.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -496,7 +496,7 @@
     "timeMonth": 186,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2026-08-18": 975,
+      "2026-08-18": 1065,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -880,7 +880,7 @@
     "timeMonth": 36,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2026-08-18": 975,
+      "2026-08-18": 1065,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,

@@ -34,19 +34,18 @@
     "url": "https://www.otakufanshare.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.otakufanshare.eu.org.ico",
     "slug": "otaku-fanshare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "84.62%",
-    "uptimeWeek": "87.86%",
+    "uptimeDay": "84.85%",
+    "uptimeWeek": "87.85%",
     "uptimeMonth": "64.03%",
     "uptimeYear": "96.72%",
     "time": 542,
-    "timeDay": 381,
-    "timeWeek": 354,
+    "timeDay": 421,
+    "timeWeek": 357,
     "timeMonth": 375,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2026-03-21": 33,
       "2026-03-31": 67,
       "2026-04-20": 183,
       "2026-04-29": 71,
@@ -86,7 +85,7 @@
       "2026-08-20": 56,
       "2026-08-21": 336,
       "2026-08-23": 213,
-      "2026-08-24": 196
+      "2026-08-24": 197
     }
   },
   {
@@ -106,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 462,
+      "2026-08-24": 605,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -479,7 +478,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wibu-api.eu.org.ico",
     "slug": "wibu-api",
     "status": "down",
-    "uptime": "53.40%",
+    "uptime": "53.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -490,7 +489,7 @@
     "timeMonth": 165,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2026-08-24": 462,
+      "2026-08-24": 605,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -863,7 +862,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wibu-api.eu.org.ico",
     "slug": "wibu-api-v1",
     "status": "down",
-    "uptime": "13.00%",
+    "uptime": "12.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -874,7 +873,7 @@
     "timeMonth": 40,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2026-08-24": 462,
+      "2026-08-24": 605,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,

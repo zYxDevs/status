@@ -12,8 +12,8 @@
     "uptimeYear": "99.96%",
     "time": 488,
     "timeDay": 398,
-    "timeWeek": 293,
-    "timeMonth": 327,
+    "timeWeek": 298,
+    "timeMonth": 331,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2025-08-30": 18,
@@ -32,17 +32,17 @@
     "url": "https://www.otakufanshare.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.otakufanshare.eu.org.ico",
     "slug": "otaku-fanshare",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "90.23%",
-    "uptimeMonth": "63.15%",
-    "uptimeYear": "96.70%",
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "66.34%",
+    "uptimeWeek": "85.92%",
+    "uptimeMonth": "62.05%",
+    "uptimeYear": "96.60%",
     "time": 522,
-    "timeDay": 522,
-    "timeWeek": 383,
+    "timeDay": 511,
+    "timeWeek": 396,
     "timeMonth": 371,
-    "timeYear": 522,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2026-05-08": 69,
       "2026-05-13": 178,
@@ -80,7 +80,8 @@
       "2026-08-24": 240,
       "2026-08-26": 174,
       "2026-08-27": 309,
-      "2026-08-28": 1
+      "2026-08-29": 40,
+      "2026-08-28": 444
     }
   },
   {
@@ -100,7 +101,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-28": 997,
+      "2026-08-29": 41,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -463,8 +465,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   },
   {
@@ -473,18 +474,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wibu-api.eu.org.ico",
     "slug": "wibu-api",
     "status": "down",
-    "uptime": "53.24%",
+    "uptime": "53.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 391,
     "timeDay": 292,
-    "timeWeek": 140,
-    "timeMonth": 148,
+    "timeWeek": 134,
+    "timeMonth": 145,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2026-08-28": 997,
+      "2026-08-29": 41,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -847,8 +849,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   },
   {
@@ -864,11 +865,12 @@
     "uptimeYear": "0.00%",
     "time": 356,
     "timeDay": 21,
-    "timeWeek": 33,
-    "timeMonth": 39,
+    "timeWeek": 28,
+    "timeMonth": 38,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2026-08-28": 997,
+      "2026-08-29": 41,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -1231,8 +1233,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   }
 ]

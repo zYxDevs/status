@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 447,
-    "timeDay": 537,
-    "timeWeek": 504,
-    "timeMonth": 456,
+    "timeDay": 265,
+    "timeWeek": 477,
+    "timeMonth": 457,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2026-01-18": 27,
@@ -27,14 +27,14 @@
     "slug": "otaku-fanshare",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "30.60%",
-    "uptimeWeek": "79.03%",
-    "uptimeMonth": "73.88%",
+    "uptimeDay": "79.30%",
+    "uptimeWeek": "79.49%",
+    "uptimeMonth": "75.58%",
     "uptimeYear": "94.77%",
     "time": 478,
-    "timeDay": 360,
-    "timeWeek": 419,
-    "timeMonth": 425,
+    "timeDay": 319,
+    "timeWeek": 417,
+    "timeMonth": 420,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2026-08-10": 430,
@@ -110,7 +110,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-08": 550,
+      "2026-11-09": 251,
+      "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -473,8 +474,7 @@
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
-      "2025-11-10": 1440,
-      "2025-11-09": 1440
+      "2025-11-10": 1440
     }
   },
   {
@@ -483,18 +483,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wibu-api.eu.org.ico",
     "slug": "wibu-api",
     "status": "down",
-    "uptime": "50.86%",
+    "uptime": "50.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 356,
-    "timeDay": 118,
-    "timeWeek": 175,
-    "timeMonth": 185,
-    "timeYear": 284,
+    "timeDay": 363,
+    "timeWeek": 192,
+    "timeMonth": 190,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2026-11-08": 550,
+      "2026-11-09": 251,
+      "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -857,8 +858,7 @@
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
-      "2025-11-10": 1440,
-      "2025-11-09": 1440
+      "2025-11-10": 1440
     }
   },
   {
@@ -867,18 +867,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wibu-api.eu.org.ico",
     "slug": "wibu-api-v1",
     "status": "down",
-    "uptime": "11.85%",
+    "uptime": "11.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 311,
-    "timeDay": 37,
-    "timeWeek": 74,
+    "time": 310,
+    "timeDay": 48,
+    "timeWeek": 70,
     "timeMonth": 212,
-    "timeYear": 280,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2026-11-08": 550,
+      "2026-11-09": 251,
+      "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -1241,8 +1242,7 @@
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
-      "2025-11-10": 1440,
-      "2025-11-09": 1440
+      "2025-11-10": 1440
     }
   }
 ]

@@ -12,9 +12,9 @@
     "uptimeYear": "99.99%",
     "time": 448,
     "timeDay": 687,
-    "timeWeek": 461,
-    "timeMonth": 490,
-    "timeYear": 435,
+    "timeWeek": 478,
+    "timeMonth": 498,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2026-01-18": 27,
       "2026-02-22": 32
@@ -25,16 +25,16 @@
     "url": "https://www.otakufanshare.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.otakufanshare.eu.org.ico",
     "slug": "otaku-fanshare",
-    "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "71.01%",
-    "uptimeMonth": "81.44%",
-    "uptimeYear": "94.68%",
-    "time": 478,
-    "timeDay": 534,
-    "timeWeek": 386,
-    "timeMonth": 435,
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "62.03%",
+    "uptimeWeek": "70.68%",
+    "uptimeMonth": "81.32%",
+    "uptimeYear": "94.58%",
+    "time": 477,
+    "timeDay": 437,
+    "timeWeek": 375,
+    "timeMonth": 438,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2026-08-11": 290,
@@ -93,7 +93,8 @@
       "2026-11-09": 611,
       "2026-11-10": 296,
       "2026-11-11": 499,
-      "2026-11-13": 1
+      "2026-11-14": 166,
+      "2026-11-13": 381
     }
   },
   {
@@ -113,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-13": 1060,
+      "2026-11-14": 167,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -476,8 +478,7 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-15": 1440
     }
   },
   {
@@ -486,18 +487,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wibu-api.eu.org.ico",
     "slug": "wibu-api",
     "status": "down",
-    "uptime": "50.69%",
+    "uptime": "50.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 356,
     "timeDay": 172,
-    "timeWeek": 193,
+    "timeWeek": 218,
     "timeMonth": 197,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2026-11-13": 1060,
+      "2026-11-14": 167,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -860,8 +862,7 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-15": 1440
     }
   },
   {
@@ -877,11 +878,12 @@
     "uptimeYear": "0.00%",
     "time": 308,
     "timeDay": 49,
-    "timeWeek": 65,
-    "timeMonth": 80,
+    "timeWeek": 62,
+    "timeMonth": 77,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2026-11-13": 1060,
+      "2026-11-14": 167,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -1244,8 +1246,7 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-15": 1440
     }
   }
 ]
